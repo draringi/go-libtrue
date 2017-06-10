@@ -1,6 +1,6 @@
 package truth
 
-// #cgo LDFLAGS: -ltrue
+// #cgo LDFLAGS: -L/usr/local/lib -ltrue
 // #include <stdbool.h>
 // bool get_true();
 //
