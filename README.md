@@ -1,2 +1,2 @@
 # go-libtrue
-Wrapper for libtrue, allowing the lesser language go to gaze upon the truth
+Wrapper for [libtrue](https://github.com/zxombie/libtrue), allowing the lesser language go to gaze upon the truth
