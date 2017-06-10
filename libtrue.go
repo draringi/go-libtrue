@@ -1,9 +1,8 @@
 package truth
 
-// #cgo CFLAGS: -I../libtrue
-// #cgo LDFLAGS: -L../libtrue -ltrue
+// #cgo LDFLAGS: -ltrue
 // #include <stdbool.h>
-// #include <true.h>
+// bool get_true();
 //
 // int bool_to_int(bool b) {
 //     return b;
